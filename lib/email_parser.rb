@@ -14,4 +14,4 @@ def parse
     email.split(',')
   end.flatten.unique
 end
-end 
+end
